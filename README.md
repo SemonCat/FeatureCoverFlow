@@ -2,7 +2,9 @@
 
 FeatureCoverFlow is a beautiful coverflow and simple to use it.
 
-All source port form [MComponents](https://github.com/applm/ma-components).
+All source code port form [MComponents](https://github.com/applm/ma-components).
+
+I only upload to Maven and didn't motify any code.
 
 <img src="http://applm.github.io/ma-components/pics/coverImage.png" alt="CoverFlow widget"></p>
 
