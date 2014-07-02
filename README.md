@@ -8,6 +8,9 @@ I only upload to Maven and didn't motify any code.
 
 <img src="http://applm.github.io/ma-components/pics/coverImage.png" alt="CoverFlow widget"></p>
 
+![Screenshot](https://raw.githubusercontent.com/SemonCat/FeatureCoverFlow/master/Screenshot_01.gif)
+
+
 ## Sample Application
 
 You can download sample apk [here](https://github.com/SemonCat/FeatureCoverFlow/raw/master/sample.apk).
